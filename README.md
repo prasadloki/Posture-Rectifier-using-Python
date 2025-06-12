@@ -59,7 +59,6 @@ Posture-Rectifier-using-Python/
 ├── Posture Rectifier.ipynb       # Jupyter notebook for the app
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # This file
-└── assets/                       # Optional: images, models, etc.
 ```
 
 ## 🧠 Future Improvements
